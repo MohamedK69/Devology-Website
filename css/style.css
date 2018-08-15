@@ -1,0 +1,32 @@
+.navbar {
+  background-color: rgba(0, 0, 0, 0.2); }
+
+.top-nav-collapse {
+ background-image: linear-gradient(to right top, #530093, #381380, #1f176c, #0a1656, #01123f); }
+
+html,
+body,
+.view {
+  height: 100%; 
+background-color: #ce93d8;
+}
+
+/* Half Page Carousel itself*/
+.carousel {
+  height: 90%; }
+  .carousel .carousel-inner {
+    height: 100%; }
+    .carousel .carousel-inner .carousel-item,
+    .carousel .carousel-inner .active {
+      height: 100%;
+        
+}
+
+.page-footer{
+    
+    background-image: linear-gradient(to right top, #530093, #381380, #1f176c, #0a1656, #01123f);
+}
+.signup{
+    font-size: 25px;
+    color:#7e57c2;
+}
